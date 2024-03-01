@@ -5,7 +5,7 @@
 
 #### Find my portolio: 
 
-#### 📫 Get in touch with me at:
+#### Get in touch with me at:
 
   <a href="https://shubhra.jyotsna@outlook.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/2203px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" alt="shubhra-jyotsna-email" height="30" width="40" /> 
 </a> <a href="https://linkedin.com/in/shubhra-jyotsna-ph-d-b33218142" target="blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="shubhra-jyotsna-ph-d-b33218142" height="50" width="60" /></a>
