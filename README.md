@@ -1,5 +1,6 @@
 <h1 align="left">👋 Hello, I'm Dr. Shubhra Jyotsna!</h1>
-### Scientist
+<h3 align="center">Scientist</h3>
+
 
 <img align="right" alt="coding" width="250" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif"> </a>
 
