@@ -8,7 +8,6 @@
 
   <a href="https://shubhra.jyotsna@outlook.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/2203px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" alt="shubhra-jyotsna-email" height="30" width="40" /> 
 </a> <a href="https://linkedin.com/in/shubhra-jyotsna-ph-d-b33218142" target="blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="shubhra-jyotsna-ph-d-b33218142" height="50" width="60" /></a>
-<a href="https://kaggle.com/drshubhrajyotsna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="drshubhrajyotsna" height="30" width="40" /></a>
 <a href="https://twitter.com/@shubhraj29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shubhraj29" height="30" width="40" /></a>
 <a href="https://medium.com/@s.jyotsna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@s.jyotsna" height="40" width="40" /></a>
 </p>
