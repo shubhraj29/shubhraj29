@@ -2,8 +2,6 @@
 <h3 align="left">Researcher</h3>
 
 
-<img align="right" alt="coding" width="250" src="[https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F463518986648384051%2F&psig=AOvVaw3dBvHsh7yVSv8EGp1pCnWB&ust=1713079688266000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNi-4KjVvoUDFQAAAAAdAAAAABAJ)"> </a>
-
 #### Find my portolio: https://sites.google.com/view/shubhrajyotsna
 
 #### Get in touch with me at:
@@ -25,7 +23,7 @@
 
 - ### Languages
 
-<p align="left"> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>  
+<p align="left"> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>  
 
 * ### Techniques
    - Machine Learning
@@ -35,7 +33,6 @@
    - Time-Series Analysis: ARIMA
    - Data Manipulation and Analysis: NumPy and pandas
    - Statistical Analysis: Descriptive and Inferential Statistics
-   - Data Visualization and Storytelling
    - Deep Learning: Neural Networks, CNN, RNN, GAN
    - Model Evaluation and Validation: Cross-validation, Evaluation Metrices (accuracy, precision, recall, F1-score), ROC Curves, and AUC
  
@@ -63,14 +60,6 @@
 * MSc (Electronics), CSJM University, Kanpur, India
 + BSc Hons. (Maths), Banasthali Vidyapith, Rajasthan (Other Subjects: Physics, Computer Science)
 
-### :scroll: Certifications
-- Get started with Power BI | Microsoft | February 2024
-- Introduction to SQL | Skill Up | February 2024
-- Power BI for Beginners | Skill Up | February 2024
-- Artificial Intelligence Fundamentals | IBM | January 2024
-- Business Intelligence using Power BI | Skill Nation | January 2024
-- Data Science | Internshala Trainings | January 2024
-- Data Strategy | National Association of State Boards of Accountancy (NASBA) | August 2023
 
 ### :page_facing_up: Publications
 1. Investigating the ferrimagnetic behaviour in 3C Fe7S8 nanoparticles, Shubhra Jyotsna and Pankaj Poddar, Accepted manuscript, Bulletin of Materials Science, 2023
