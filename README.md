@@ -1,8 +1,8 @@
 <h1 align="left">👋 Hello, I'm Dr. Shubhra Jyotsna!</h1>
-<h3 align="center">Scientist</h3>
+<h3 align="left">Researcher</h3>
 
 
-<img align="right" alt="coding" width="250" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif"> </a>
+<img align="right" alt="coding" width="250" src="[https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F463518986648384051%2F&psig=AOvVaw3dBvHsh7yVSv8EGp1pCnWB&ust=1713079688266000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNi-4KjVvoUDFQAAAAAdAAAAABAJ)"> </a>
 
 #### Find my portolio: https://sites.google.com/view/shubhrajyotsna
 
